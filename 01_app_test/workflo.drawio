@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="vcJra9tljUOlXcn5ISba" name="Page-1">
+        <mxGraphModel dx="1424" dy="1428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Create conda/mamba enviroment&lt;br&gt;streamlit_env&lt;br&gt;conda create -n streamlit_env&lt;br&gt;conda activate streamlit_env" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="10" width="200" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="App to learn the function of streamlit&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="-70" width="290" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="160" as="sourcePoint"/>
+                        <mxPoint x="130" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="&lt;h2&gt;Installation&lt;/h2&gt;conda install python -y&lt;br&gt;pip install streamlit&lt;br&gt;pip install pandas numpy matplotib seaborn plotly&amp;nbsp;&lt;br&gt;scipy scikit-learn openpyxl" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="160" width="320" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
